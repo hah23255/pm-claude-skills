@@ -6,14 +6,19 @@
    "pypi_month": 3293,
    "stars": 1193,
    "forks": 214
+  },
+  {
+   "date": "2026-09-07",
+   "npm_month": 10565,
+   "stars": 1340,
+   "forks": 234
   }
  ],
  "latest": {
-  "date": "2026-07-17",
-  "npm_month": 13165,
-  "pypi_month": 3293,
-  "stars": 1193,
-  "forks": 214
+  "date": "2026-09-07",
+  "npm_month": 10565,
+  "stars": 1340,
+  "forks": 234
  },
- "updated": "2026-07-17"
+ "updated": "2026-09-07"
 }
