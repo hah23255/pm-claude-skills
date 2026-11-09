@@ -501,11 +501,11 @@
  },
  {
   "d": "2026-11-09",
-  "runs": 167,
+  "runs": 169,
   "stars": 1,
-  "npmWeek": 2363,
-  "npmToolsWeek": 65,
-  "npmSpecWeek": 21,
+  "npmWeek": 2573,
+  "npmToolsWeek": 47,
+  "npmSpecWeek": 20,
   "pypiMonth": 1163,
   "skillPings": 189
  }
